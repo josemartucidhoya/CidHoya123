@@ -45,11 +45,17 @@ h1 {
 }
 h1 img{
   width: 600px;
+  display: flex;
+ align-items: stretch;
 }
 
-#fotosindex{
-  width: 40px;
-  height: 10px;
+#fotosindex img{
+  width: 300px;;
+}
+#logo img{
+ width:280px ;
+ display: flex;
+ align-items: stretch;
 }
 
 
