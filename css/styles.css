@@ -65,24 +65,28 @@ h1 {
   width: 400px;
   height: 400px;
   float: left;
+  clear: both;
 }
 #disney {
   background-image: url(../Imagenes/fotodisney.png);
   width: 400px;
   height: 400px;
   float: left;
+  clear: both;
 }
 #miami{
   background-image: url(../Imagenes/fotomiami.png);
   width: 400px;
   height: 400px;
   float: left;
+  clear: both;
 }
 #madrid {
   background-image: url(../Imagenes/fotomadrid.png);
   width: 400px;
   height: 400px;
   float: left;
+  clear: both;
 }
 
 
