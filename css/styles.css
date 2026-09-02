@@ -54,9 +54,31 @@ h1 {
   min-width: 9rem;
   padding: 0.5rem;
   border-radius: 0.2rem;
-  border: solid 1px #aaa;
+  border: solid 1px #c592b1;
   text-align: right;
   text-decoration: none;
   color: #555;
 }
+
+#nuevayork {
+  background-image: url(../Imagenes/fotonuevayork.png);
+  width: 400px;
+  height: 400px;
+}
+#disney {
+  background-image: url(../Imagenes/fotodisney.png);
+  width: 400px;
+  height: 400px;
+}
+#miami{
+  background-image: url(../Imagenes/fotomiami.png);
+  width: 400px;
+  height: 400px;
+}
+#madrid {
+  background-image: url(../Imagenes/fotomadrid.png);
+  width: 400px;
+  height: 400px;
+}
+
 
