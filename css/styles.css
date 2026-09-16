@@ -48,8 +48,6 @@ h1 {
 }
 
 .quesomos{
- 
-
   display: inline-block;
   min-width: 9rem;
   padding: 0.5rem;
@@ -60,33 +58,9 @@ h1 {
   color: #555;
 }
 
-#nuevayork {
-  background-image: url(../Imagenes/fotonuevayork.png);
-  width: 400px;
-  height: 400px;
-  float: left;
-  clear: both;
-}
-#disney {
-  background-image: url(../Imagenes/fotodisney.png);
-  width: 400px;
-  height: 400px;
-  float: left;
-  clear: both;
-}
-#miami{
-  background-image: url(../Imagenes/fotomiami.png);
-  width: 400px;
-  height: 400px;
-  float: left;
-  clear: both;
-}
-#madrid {
-  background-image: url(../Imagenes/fotomadrid.png);
-  width: 400px;
-  height: 400px;
-  float: left;
-  clear: both;
+#fotoslugar img{
+  width: 3px;
+  height: 3px;
 }
 .multimedia{
   width: 50%;
@@ -99,7 +73,7 @@ h1 {
 }
 
 .multimedia video{
-  width: 100%;
+  width: 50%;
   display: block;
   border-radius: 10px;
 }
