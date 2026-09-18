@@ -56,6 +56,8 @@ h1 {
   text-decoration: none;
   color: #555;
   width: 600px;
+  margin-left: 15px;
+  margin-top: 10px;
 }
 
 section img{
@@ -64,4 +66,39 @@ height: 300px;
 margin-left: 15px;
 margin-top: 10px;
 display: flex;
+}
+footer {
+  background-color:white;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+#colegio {
+  width: 33%;
+  background-color:rgb(230, 173, 218);;
+  padding: 5px;
+}
+#colegio a {
+  color:white;
+}
+#alumno {
+  width: 33%;
+  background-color:rgb(230, 173, 218);;
+  color:white;
+  padding: 5px;
+}
+#alumno a {
+  color:white;
+}
+#sociales {
+  width: 33%;
+  background-color: rgb(230, 173, 218);
+  padding: 5px;
+}
+#sociales img {
+  width: 50px;
+}
+#colegio h3{
+  margin-left: 20px;
 }
