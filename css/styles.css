@@ -58,14 +58,25 @@ h1 {
   width: 600px;
   margin-left: 15px;
   margin-top: 10px;
+  width: 300px;
 }
+#caja_video video{
+   width: 350px;
+}
+#ordenamiento_cajas{
+  display:flex;
+  text-align: center;
+}
+div img{
+  width: 400px;
+  height: 300px;
+  margin-left: 15px;
+  margin-top: 10px;
+  display: flex;
+  }
 
-section img{
-width: 400px;
-height: 300px;
-margin-left: 15px;
-margin-top: 10px;
-display: flex;
+#caja_presentacion div{
+  margin-top: 10px;
 }
 footer {
   background-color:white;
@@ -96,9 +107,16 @@ footer {
   background-color: rgb(230, 173, 218);
   padding: 5px;
 }
-#sociales img {
+#sociales a img {
   width: 50px;
+  height: 50px;
 }
 #colegio h3{
   margin-left: 20px;
 }
+
+#video.MOV{
+
+  
+}
+
