@@ -32,7 +32,7 @@ nav a {
 
 nav a[aria-current='page'] {
   color: #000;
-  background-color: #ffc7ec;
+  background-color: #ffffff;
 }
 
 main {
@@ -80,7 +80,7 @@ div img{
 }
 footer {
   background-color:white;
-  color: white;
+  color: rgb(255, 255, 255);
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
@@ -115,8 +115,15 @@ footer {
   margin-left: 20px;
 }
 
-#video.MOV{
 
-  
+
+#caja_logoGT{
+
+  width: 50px;
+  height: 50px;
 }
-
+#presentacion iframe{
+  overflow: hidden;
+  width:380px;
+  height: 250px;
+}
