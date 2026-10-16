@@ -127,4 +127,7 @@ footer {
   width:380px;
   height: 250px;
 }
-#fotodestinos{ display: block; margin: 0 auto;}
+#fotodestinos{ 
+  display: block; 
+  margin: 0 auto;
+}
