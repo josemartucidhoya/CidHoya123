@@ -131,19 +131,22 @@ footer {
   display: block; 
   margin: 0 auto;
 }
-
-#presentacion {
+.presentacion {
   display: flex;
+  flex-direction: row;
   align-items: center;
   gap: 20px;
+  width: 100%;
   }
   
-  #presentacion iframe {
-  width: 360px;
-  height: 240px;
+  .presentacion iframe {
+  width: 500px;
+  height: 300px;
   flex-shrink: 0;
   }
   
-  #presentacion p {
-  width: 300px;
+  .presentacion p {
+  flex: 1;
+  margin: 0;
   }
+
