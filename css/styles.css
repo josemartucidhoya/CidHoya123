@@ -132,18 +132,18 @@ footer {
   margin: 0 auto;
 }
 
-.destino {
+#presentacion {
   display: flex;
   align-items: center;
   gap: 20px;
   }
   
-  .destino iframe {
+  #presentacion iframe {
   width: 360px;
   height: 240px;
+  flex-shrink: 0;
   }
   
-  .destino p {
+  #presentacion p {
   width: 300px;
-  font-size: 18px;
   }
