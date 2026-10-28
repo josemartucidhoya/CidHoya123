@@ -16,7 +16,7 @@ nav {
   padding: 0.5rem;
   gap: 0.5rem;
   border-bottom: solid 1px #f194ed;
-  background-color: rgb(240, 114, 212);
+  background-color:rgb(240, 114, 212);
 }
 
 nav a {
@@ -119,9 +119,9 @@ footer {
 
 #caja_logoGT img{
 
-  width: 50px;
-  height:50px;
-  transform: translate(400px, −150px);
+  width: 280px;
+  height:280px;
+  transform: translate(350px,-280px);
 } 
 #presentacion iframe{
   overflow: hidden;
@@ -151,7 +151,7 @@ footer {
   margin: 0;
   }
   form {
-    background-color:#E8DED0 ;
+    background-color:rgb(240, 114, 212) ;
     width: 70%;
     margin: 30px auto;
     padding: 35px;
