@@ -194,6 +194,36 @@ footer {
     padding: 15px;
     border-radius: 15px;
     }
+    .titulo-alojamiento{ 
+      
+     display: flex;
+     justify-content: center;
+     width: 100%;
+      }
+      .titulo-alojamiento img{ 
+       width: 600px;
+       height: auto;
+         }
+         #presentacionAlojamientos{ 
+          display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+            }
+            #sorpresas{
+
+              margin-left: 15px;
+           
+            }
+            #sorpresas img{
+
+           width: 200px;
+            }
+
+
+
+
 
     
      
