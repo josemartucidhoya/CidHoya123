@@ -221,6 +221,33 @@ footer {
            width: 200px;
             }
 
+            .volver-arriba {
+              display: flex;
+              position: fixed;
+              bottom: 30px;
+              right: 30px;
+              width: 50px;
+              height: 50px;
+              background: hotpink !important;
+              color: white !important;
+              align-items: center;
+              justify-content: center;
+              border-radius: 50%;
+              text-decoration: none;
+              font-size: 25px;
+              font-weight: bold;
+              z-index: 99999;
+              }
+
+              .titulo-precios {
+                width: 600px;
+                max-width: 90%;
+                display: block;
+                margin: 30px auto;
+                }
+                
+              
+              
 
 
 
